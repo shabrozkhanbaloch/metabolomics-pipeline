@@ -1,0 +1,4 @@
+# Python environment and caches (not for GitHub)
+.venv/
+__pycache__/
+*.pyc
